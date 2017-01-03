@@ -1,0 +1,20 @@
+[
+    {
+        "text": "new Comment from Vue2",
+        "title": "new Comment from Vue2",
+        "id": 1483305290047,
+        "author": "David Xie"
+    },
+    {
+        "text": "comment2 from Vue2",
+        "author": "David",
+        "id": 1483307853144,
+        "title": "comment2 from vue2"
+    },
+    {
+        "text": "comment3 from Vue2",
+        "title": "comment3 from Vue2",
+        "id": 1483307946017,
+        "author": "David"
+    }
+]
